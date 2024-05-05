@@ -1,0 +1,30 @@
+#walletbtn {
+    background-color: #71C9CE;
+    margin: 10%;
+    size-adjust: var(50px);
+}
+
+#navcolo {
+    background-color: #222831;
+}
+
+#logoutbtn {
+    background-color: #00ADB5;
+}
+
+#pagec {
+    background-color: #EEEEEE;
+}
+
+#walletblock{
+    display: block;
+    width: 58.5%;
+    height: 120px;
+    padding: 10px;
+    margin: 20px 10px 20px 320px;
+    /* margin: auto; */
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: #00ADB5;
+    box-shadow: 5px 5px rgb(216, 213, 213);
+}
