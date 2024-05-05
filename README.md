@@ -34,8 +34,5 @@ The Digital Offline Wallet project aims to create a secure and convenient soluti
 ## Contribution
 Contributions to the project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Disclaimer
 This project is for educational purposes only. Always exercise caution and ensure compliance with relevant regulations when dealing with digital currency transactions. The developers are not liable for any misuse or unauthorized transactions.
